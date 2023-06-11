@@ -4,7 +4,7 @@ import {View, Text, StyleSheet} from 'react-native';
 const TodoDetails = () => {
   return (
     <View>
-      <Text>TodoDetails</Text>
+      <Text>TodoDetailsss</Text>
     </View>
   );
 };
